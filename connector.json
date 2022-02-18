@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "a4e3cc2d-a141-4341-89a2-9867f80489f0",
-  "authorName": "test",
+  "authorName": "test123",
   "accesstokenMethod": null,
   "tokenAddlParams": "",
   "publishPrivate": true,
@@ -136,21 +136,18 @@
                 "label": "triangle",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:356",
-                "selected": false
+                "$$hashKey": "object:356"
               },
               {
                 "expanded": false,
                 "label": "square",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:357",
-                "selected": false
+                "$$hashKey": "object:357"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:348",
-            "selected": false
+            "$$hashKey": "object:348"
           }
         ]
       }

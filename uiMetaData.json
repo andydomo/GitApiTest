@@ -106,21 +106,18 @@
                 "label": "triangle",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:356",
-                "selected": false
+                "$$hashKey": "object:356"
               },
               {
                 "expanded": false,
                 "label": "square",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:357",
-                "selected": false
+                "$$hashKey": "object:357"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:348",
-            "selected": false
+            "$$hashKey": "object:348"
           }
         ]
       }
