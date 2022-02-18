@@ -967,8 +967,8 @@
   "enableForAppstore": false,
   "visible": true,
   "validImages": [
-    "iconWithBackground",
     "logoWithBackground",
+    "iconWithBackground",
     "iconWithoutBackground",
     "logoWithoutBackground"
   ]

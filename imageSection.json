@@ -7,8 +7,8 @@
   ],
   "authorName": "test",
   "validImages": [
-    "iconWithBackground",
     "logoWithBackground",
+    "iconWithBackground",
     "iconWithoutBackground",
     "logoWithoutBackground"
   ]
