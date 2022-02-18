@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "a4e3cc2d-a141-4341-89a2-9867f80489f0",
-  "authorName": "",
+  "authorName": "test",
   "accesstokenMethod": null,
   "tokenAddlParams": "",
   "publishPrivate": true,
@@ -59,7 +59,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:484"
+      "$$hashKey": "object:252"
     },
     {
       "name": "DOB",
@@ -72,7 +72,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:485"
+      "$$hashKey": "object:253"
     },
     {
       "name": "Age",
@@ -85,7 +85,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:486"
+      "$$hashKey": "object:254"
     },
     {
       "name": "Gender",
@@ -107,7 +107,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:487"
+      "$$hashKey": "object:255"
     },
     {
       "name": "Area",
@@ -124,7 +124,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:488",
+      "$$hashKey": "object:256",
       "tree": {
         "nodes": [
           {
@@ -136,18 +136,21 @@
                 "label": "triangle",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:588"
+                "$$hashKey": "object:356",
+                "selected": false
               },
               {
                 "expanded": false,
                 "label": "square",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:589"
+                "$$hashKey": "object:357",
+                "selected": false
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:580"
+            "$$hashKey": "object:348",
+            "selected": false
           }
         ]
       }
@@ -163,7 +166,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:489"
+      "$$hashKey": "object:257"
     },
     {
       "name": "AREA1",
@@ -180,7 +183,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:490",
+      "$$hashKey": "object:258",
       "tree": {
         "nodes": [
           {
@@ -192,18 +195,18 @@
                 "label": "germany",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:617"
+                "$$hashKey": "object:385"
               },
               {
                 "expanded": false,
                 "label": "France",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:618"
+                "$$hashKey": "object:386"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:602"
+            "$$hashKey": "object:370"
           },
           {
             "expanded": false,
@@ -214,18 +217,18 @@
                 "label": "Japan",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:632"
+                "$$hashKey": "object:400"
               },
               {
                 "expanded": false,
                 "label": "India",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:633"
+                "$$hashKey": "object:401"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:603"
+            "$$hashKey": "object:371"
           }
         ]
       }
@@ -245,7 +248,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:491",
+      "$$hashKey": "object:259",
       "tree": {
         "nodes": [
           {
@@ -257,18 +260,18 @@
                 "label": "pizza",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:654"
+                "$$hashKey": "object:422"
               },
               {
                 "expanded": false,
                 "label": "burger",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:655"
+                "$$hashKey": "object:423"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:646"
+            "$$hashKey": "object:414"
           }
         ]
       }
@@ -284,7 +287,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:492"
+      "$$hashKey": "object:260"
     },
     {
       "name": "newTest",
@@ -301,7 +304,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:493",
+      "$$hashKey": "object:261",
       "tree": null
     },
     {
@@ -319,7 +322,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:494",
+      "$$hashKey": "object:262",
       "tree": {
         "nodes": [
           {
@@ -331,18 +334,18 @@
                 "label": "germany",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:683"
+                "$$hashKey": "object:451"
               },
               {
                 "expanded": false,
                 "label": "France",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:684"
+                "$$hashKey": "object:452"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:668"
+            "$$hashKey": "object:436"
           },
           {
             "expanded": false,
@@ -353,18 +356,18 @@
                 "label": "Japan",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:698"
+                "$$hashKey": "object:466"
               },
               {
                 "expanded": false,
                 "label": "India",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:699"
+                "$$hashKey": "object:467"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:669"
+            "$$hashKey": "object:437"
           }
         ]
       }
@@ -384,7 +387,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:495",
+      "$$hashKey": "object:263",
       "tree": {
         "nodes": [
           {
@@ -396,18 +399,18 @@
                 "label": "germany",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:727"
+                "$$hashKey": "object:495"
               },
               {
                 "expanded": false,
                 "label": "France",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:728"
+                "$$hashKey": "object:496"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:712"
+            "$$hashKey": "object:480"
           },
           {
             "expanded": false,
@@ -418,18 +421,18 @@
                 "label": "Japan",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:742"
+                "$$hashKey": "object:510"
               },
               {
                 "expanded": false,
                 "label": "India",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:743"
+                "$$hashKey": "object:511"
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:713"
+            "$$hashKey": "object:481"
           }
         ]
       }
@@ -964,9 +967,9 @@
   "enableForAppstore": false,
   "visible": true,
   "validImages": [
-    "logoWithBackground",
     "iconWithBackground",
-    "logoWithoutBackground",
-    "iconWithoutBackground"
+    "logoWithBackground",
+    "iconWithoutBackground",
+    "logoWithoutBackground"
   ]
 }
