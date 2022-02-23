@@ -8,8 +8,8 @@
   "authorName": "test123123",
   "validImages": [
     "logoWithBackground",
-    "iconWithoutBackground",
     "iconWithBackground",
+    "iconWithoutBackground",
     "logoWithoutBackground"
   ]
 }
